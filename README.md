@@ -199,8 +199,4 @@ Customer_Feedback_Analysis/
 This project demonstrates how Python and Generative AI can be combined to automate customer feedback analysis and improve customer support efficiency. By identifying critical reviews through rule-based filtering and generating personalized AI-powered apology emails, the solution reduces manual effort while providing consistent and empathetic responses. The project showcases practical skills in data preprocessing, text analysis, API integration, and business-oriented problem solving.
 
 
-
-Submitted By : Nitin Prasad
-Course       : PGA61
-Assessment   : Imarticus Data Science Internship Assessment
-Project      : Customer Feedback Analysis and Automated Response System
+Author: Nitin Prasad
